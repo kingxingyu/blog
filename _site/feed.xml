@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-16T14:18:45+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jekyll-Theme-MDUI</title><subtitle>A Jekyll theme based on MDUI</subtitle><author><name>KeJun</name></author><entry><title type="html">Jekyll Theme MDUI Editor</title><link href="http://localhost:4000/living/2017/05/30/Jekyll-Theme-MDUI-Editor.html" rel="alternate" type="text/html" title="Jekyll Theme MDUI Editor" /><published>2017-05-30T00:00:00+08:00</published><updated>2017-05-30T00:00:00+08:00</updated><id>http://localhost:4000/living/2017/05/30/Jekyll-Theme-MDUI-Editor</id><content type="html" xml:base="http://localhost:4000/living/2017/05/30/Jekyll-Theme-MDUI-Editor.html"><![CDATA[<p>静态博客在线攥写文章不是梦。</p>
+
+<h2 id="功能">功能</h2>
+
+<ol>
+  <li>自动生成yml头</li>
+  <li>markdown自动保存</li>
+  <li>头图可直接预览</li>
+  <li>随意添加或选择任意分类</li>
+  <li>随意添加Tags</li>
+  <li>更好的日期选择器</li>
+  <li>随时编辑包括手机</li>
+</ol>
+
+<h2 id="使用">使用</h2>
+
+<ol>
+  <li>打开 <code class="language-plaintext highlighter-rouge">https://yourblogurl/pages/editor.html</code>。</li>
+  <li>按照提示填写对应信息。</li>
+  <li>点击 <code class="language-plaintext highlighter-rouge">CREATE FILE</code> 按钮。</li>
+  <li>点击 <code class="language-plaintext highlighter-rouge">Download</code> 按钮。</li>
+  <li>将下载的文件移动到 <code class="language-plaintext highlighter-rouge">_posts</code> 文件夹。</li>
+  <li><code class="language-plaintext highlighter-rouge">git push</code> 。</li>
+</ol>
+
+<h2 id="预览">预览</h2>
+
+<p><a href="https://blog.kejun.space/pages/editor.html">demo</a></p>
+
+<p><img src="https://ooo.0o0.ooo/2017/05/30/592d4280948fb.jpg" alt="" /></p>]]></content><author><name>KeJun</name></author><category term="Living" /><category term="mdui" /><category term="jekyll" /><category term="theme" /><category term="editor" /><summary type="html"><![CDATA[静态博客在线攥写文章不是梦。]]></summary></entry><entry><title type="html">Jekyll Theme MDUI</title><link href="http://localhost:4000/living/2017/05/29/jekyll-theme-mdui.html" rel="alternate" type="text/html" title="Jekyll Theme MDUI" /><published>2017-05-29T12:22:06+08:00</published><updated>2017-05-29T12:22:06+08:00</updated><id>http://localhost:4000/living/2017/05/29/jekyll-theme-mdui</id><content type="html" xml:base="http://localhost:4000/living/2017/05/29/jekyll-theme-mdui.html"><![CDATA[<p>A Jekyll theme based on MDUI.</p>
+
+<p>Material Design 设计，大部分配置使用 _data 文件，无需重启 <code class="language-plaintext highlighter-rouge">jekyll</code> 即可完成配置。</p>
+
+<h2 id="mdui">MDUI</h2>
+
+<p>MDUI 是一套用于开发 Material Design 网页的前端框架。</p>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/zdhxiong/mdui">github</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.mdui.org/">MDUI</a></p>
+  </li>
+</ul>
+
+<h2 id="主题特性">主题特性</h2>
+
+<ul>
+  <li>响应式设计</li>
+  <li>集成服务
+    <ul>
+      <li>Google 分析</li>
+      <li>RSS</li>
+      <li>本地搜索</li>
+      <li>Disqus</li>
+      <li>sitemap</li>
+    </ul>
+  </li>
+  <li>多种独立页面
+    <ul>
+      <li>category</li>
+      <li>friends</li>
+      <li>search</li>
+      <li>tags</li>
+    </ul>
+  </li>
+  <li>纯 Liquid 压缩 html</li>
+  <li>不依赖非安全插件（可直接部署到Github）</li>
+  <li>PWA</li>
+  <li>多样性 SNS</li>
+  <li>在线编辑器<a href="https://blog.kejun.space/pages/editor.html">demo</a></li>
+</ul>
+
+<h2 id="食用方法">食用方法</h2>
+
+<p><a href="https://github.com/KeJunMao/jekyll-theme-mdui/blob/master/README.md">jekyll-theme-mdui/README.md</a></p>
+
+<h2 id="预览">预览</h2>
+
+<p><a href="https://github.com/KeJunMao/jekyll-theme-mdui">KeJunMao/jekyll-theme-mdui</a></p>
+
+<p><a href="https://blog.kejun.space/">KeJun Blog</a></p>
+
+<h2 id="license">License</h2>
+
+<p>The theme is available as open source under the terms of the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>]]></content><author><name>KeJun</name></author><category term="Living" /><category term="jekyll" /><category term="theme" /><category term="liquid" /><summary type="html"><![CDATA[A Jekyll theme based on MDUI.]]></summary></entry><entry><title type="html">Liquid 模板语言</title><link href="http://localhost:4000/living/2017/05/27/liquid-template-language.html" rel="alternate" type="text/html" title="Liquid 模板语言" /><published>2017-05-27T16:18:06+08:00</published><updated>2017-05-27T16:18:06+08:00</updated><id>http://localhost:4000/living/2017/05/27/liquid-template-language</id><content type="html" xml:base="http://localhost:4000/living/2017/05/27/liquid-template-language.html"><![CDATA[<p>此博文用于记录研究 jekyll 时遇到的有趣 <code class="language-plaintext highlighter-rouge">liquid</code> 语言片段。</p>
+
+<h2 id="统计捐赠">统计捐赠</h2>
+
+<blockquote>
+  <p>效果：<a href="https://storyline.kejun.space/pages/menus/donate.html">捐赠</a></p>
+</blockquote>
+
+<ol>
+  <li>在<code class="language-plaintext highlighter-rouge">_data</code>目录下创建一个名为<code class="language-plaintext highlighter-rouge">donate.yml</code>的文件。</li>
+  <li>按如下格式填写：
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">张三</span>
+  <span class="na">money</span><span class="pi">:</span> <span class="m">100</span>
+</code></pre></div>    </div>
+  </li>
+  <li>在页面中输入
+    <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">d</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">site.data.donate</span><span class="w"> </span><span class="p">%}</span>
+<span class="p">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="na">allmoney</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="p">%}{{</span><span class="w"> </span><span class="nv">allmoney</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">plus</span><span class="p">:</span><span class="w"> </span><span class="nv">d</span><span class="p">.</span><span class="nv">money</span><span class="w"> </span><span class="p">}}{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="p">%}</span>
+ &lt;p <span class="p">{{</span><span class="w"> </span><span class="nv">d</span><span class="p">.</span><span class="nv">name</span><span class="w"> </span><span class="p">}}</span>：&lt;b&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">d</span><span class="p">.</span><span class="nv">money</span><span class="w"> </span><span class="p">}}</span>元&lt;/b&gt;&lt;/p&gt;
+<span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+ &lt;p&gt;&lt;b&gt;总金额： <span class="p">{{</span><span class="nv">allmoney</span><span class="p">}}</span>元&lt;/b&gt;&lt;/p&gt;
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="标签云">标签云</h2>
+
+<blockquote>
+  <p>效果就是本博客的tag，此外还需要配合js。</p>
+</blockquote>
+
+<p>这个讲真，真的好累…</p>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="nv">tags</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">tag</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">site.tags</span><span class="w"> </span><span class="p">%}</span>
+    <span class="p">{{</span><span class="w"> </span><span class="nv">tag</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="w"> </span><span class="p">}}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+<span class="p">{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="p">%}</span>
+
+<span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sortedtags</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">tags</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">split</span><span class="p">:</span><span class="s1">' '</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="w"> </span><span class="p">%}</span>
+
+<span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">tag</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">sortedtags</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">index</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">tags</span><span class="p">[</span><span class="nv">tag</span><span class="p">]</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">size</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">fontsize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">14</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">125</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">i</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">(1..index)</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="nv">fontsize</span><span class="w"> </span><span class="p">%}{{</span><span class="nv">fontsize</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">plus</span><span class="p">:</span><span class="mf">1.5</span><span class="p">}}{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span><span class="nv">i</span><span class="w"> </span><span class="nt">in</span><span class="w"> </span><span class="nv">(1..index)</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="nv">color</span><span class="w"> </span><span class="p">%}{{</span><span class="w"> </span><span class="nv">color</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">minus</span><span class="w"> </span><span class="p">:</span><span class="mi">15</span><span class="p">}}{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="p">%}</span>
+  <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+      &lt;a id="<span class="p">{{</span><span class="w"> </span><span class="nv">tag</span><span class="w"> </span><span class="p">}}</span>"  style="font-size:<span class="p">{{</span><span class="nv">fontsize</span><span class="p">}}</span>px;color:rgb(<span class="p">{{</span><span class="nv">color</span><span class="p">}}</span>,<span class="p">{{</span><span class="nv">color</span><span class="p">}}</span>,<span class="p">{{</span><span class="nv">color</span><span class="p">}}</span>)"&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">tag</span><span class="w"> </span><span class="p">}}</span>&lt;/a&gt;
+<span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+</code></pre></div></div>
+
+<h2 id="有用的站点">有用的站点</h2>
+
+<ul>
+  <li><a href="http://alfred-sun.github.io/blog/2015/01/10/jekyll-liquid-syntax-documentation/">Jekyll/Liquid API 语法文档</a></li>
+  <li><a href="http://liquidmarkup.org/">Liquid</a></li>
+  <li><a href="https://jekyllrb.com/docs/home/">Jekyll DOCS</a></li>
+</ul>]]></content><author><name>KeJun</name></author><category term="Living" /><category term="liquid" /><category term="jekyll" /><summary type="html"><![CDATA[此博文用于记录研究 jekyll 时遇到的有趣 liquid 语言片段。]]></summary></entry><entry><title type="html">如何安装 Jekyll ？</title><link href="http://localhost:4000/technology/2017/05/27/how-to-install-jekyll.html" rel="alternate" type="text/html" title="如何安装 Jekyll ？" /><published>2017-05-27T14:57:06+08:00</published><updated>2017-05-27T14:57:06+08:00</updated><id>http://localhost:4000/technology/2017/05/27/how-to-install-jekyll</id><content type="html" xml:base="http://localhost:4000/technology/2017/05/27/how-to-install-jekyll.html"><![CDATA[<p>Jekyll 一个可以将纯文本转换成静态网站的工具。本站正是使用<code class="language-plaintext highlighter-rouge">jekyll</code>生成并托管在<code class="language-plaintext highlighter-rouge">coding page</code>上的。</p>
+
+<p>安装 <code class="language-plaintext highlighter-rouge">jekyll</code> 及其简单。</p>
+
+<h2 id="检查环境">检查环境</h2>
+
+<ol>
+  <li>GNU/Linux, Unix, 或 macOS 。</li>
+  <li>Ruby 2.0 以上（含2.0）。</li>
+  <li>RubyGems</li>
+  <li>GCC 和 Make（通过<code class="language-plaintext highlighter-rouge">gcc -v</code> 和 <code class="language-plaintext highlighter-rouge">make -v</code> 检查是否已安装）。</li>
+</ol>
+
+<h2 id="安装-jekyll">安装 jekyll</h2>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Install Jekyll and Bundler gems through RubyGems</span>
+~ <span class="nv">$ </span>gem <span class="nb">install </span>jekyll bundler
+
+<span class="c"># Create a new Jekyll site at ./myblog</span>
+~ <span class="nv">$ </span>jekyll new myblog
+
+<span class="c"># Change into your new directory</span>
+~ <span class="nv">$ </span><span class="nb">cd </span>myblog
+
+<span class="c"># Build the site on the preview server</span>
+~/myblog <span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+
+<span class="c"># Now browse to http://localhost:4000</span>
+</code></pre></div></div>
+
+<h2 id="参考">参考</h2>
+
+<ul>
+  <li>
+    <p><a href="https://jekyllrb.com/docs/installation/">Installation</a></p>
+  </li>
+  <li>
+    <p><a href="https://jekyllrb.com/docs/quickstart/">Quick-start guide</a></p>
+  </li>
+</ul>]]></content><author><name>KeJun</name></author><category term="technology" /><category term="jekyll" /><category term="ruby" /><category term="gem" /><category term="ubuntu" /><summary type="html"><![CDATA[Jekyll 一个可以将纯文本转换成静态网站的工具。本站正是使用jekyll生成并托管在coding page上的。]]></summary></entry><entry><title type="html">如何安装 RVM 和 Ruby？</title><link href="http://localhost:4000/technology/2017/05/27/how-to-install-rvm.html" rel="alternate" type="text/html" title="如何安装 RVM 和 Ruby？" /><published>2017-05-27T14:19:06+08:00</published><updated>2017-05-27T14:19:06+08:00</updated><id>http://localhost:4000/technology/2017/05/27/how-to-install-rvm</id><content type="html" xml:base="http://localhost:4000/technology/2017/05/27/how-to-install-rvm.html"><![CDATA[<p>Ruby Version Manager (RVM)，一个命令行工具。顾名思义，RVM可以方便的安装<code class="language-plaintext highlighter-rouge">gem</code>和<code class="language-plaintext highlighter-rouge">ruby</code>，这对想要安装 <code class="language-plaintext highlighter-rouge">Jekyll</code> 的萌新（我），简直不要太酸爽。</p>
+
+<h2 id="rvm-安装">RVM 安装</h2>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">--keyserver</span> hkp://keys.gnupg.net <span class="nt">--recv-keys</span> 409B6B1796C275462A1703113804BB82D39DC0E3
+<span class="se">\c</span>url <span class="nt">-sSL</span> https://get.rvm.io | bash <span class="nt">-s</span> stable
+<span class="nb">source</span> ~/.bashrc
+<span class="nb">source</span> ~/.bash_profile
+</code></pre></div></div>
+
+<p>修改 RVM 的 Ruby 安装源到 Ruby China 的 <a href="https://cache.ruby-china.org/">Ruby 镜像服务器</a>，这样能提高安装速度。</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"ruby_url=https://cache.ruby-china.org/pub/ruby"</span> <span class="o">&gt;</span> ~/.rvm/user/db
+</code></pre></div></div>
+
+<h2 id="ruby-的安装与切换">Ruby 的安装与切换</h2>
+
+<p>列出已知的 Ruby 版本</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm list known
+</code></pre></div></div>
+
+<p>我们会看到输出了：</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># MRI Rubies</span>
+<span class="o">[</span>ruby-]1.8.6[-p420]
+<span class="o">[</span>ruby-]1.8.7[-head] <span class="c"># security released on head</span>
+<span class="o">[</span>ruby-]1.9.1[-p431]
+<span class="o">[</span>ruby-]1.9.2[-p330]
+<span class="o">[</span>ruby-]1.9.3[-p551]
+<span class="o">[</span>ruby-]2.0.0[-p648]
+<span class="o">[</span>ruby-]2.1[.10]
+<span class="o">[</span>ruby-]2.2[.6]
+<span class="o">[</span>ruby-]2.3[.3]
+<span class="o">[</span>ruby-]2.4[.0]
+ruby-head
+
+<span class="c"># for forks use: rvm install ruby-head-&lt;name&gt; --url https://github.com/github/ruby.git --branch 2.2</span>
+...
+</code></pre></div></div>
+
+<p>安装一个 Ruby 版本</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm <span class="nb">install </span>2.4.0
+</code></pre></div></div>
+
+<p>这里安装了最新的 2.4.0, rvm list known 列表里面的都可以拿来安装。</p>
+
+<p>切换 Ruby 版本</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm use 2.2.0
+</code></pre></div></div>
+
+<p>如果想设置为默认版本，这样一来以后新打开的控制台默认的 Ruby 就是这个版本</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm use 2.4.0 <span class="nt">--default</span>
+</code></pre></div></div>
+
+<p>查询已经安装的ruby</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm list
+</code></pre></div></div>
+
+<p>此时，输入<code class="language-plaintext highlighter-rouge">ruby -v</code>就会看到类似如下输出：</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ruby 2.4.0p0 <span class="o">(</span>2016-12-24 revision 57164<span class="o">)</span> <span class="o">[</span>x86_64-linux]
+</code></pre></div></div>
+
+<p>至此完成 RVM 与 Ruby 的安装</p>
+
+<h2 id="注意">注意</h2>
+
+<p>请将 <code class="language-plaintext highlighter-rouge">终端-编辑-配置文件首选项-命令-以登录 shell 方式运行命令</code> 的复选框选中。</p>
+
+<h2 id="参考">参考</h2>
+
+<ul>
+  <li><a href="https://ruby-china.org/wiki/rvm-guide">RVM 实用指南</a></li>
+  <li><a href="https://rvm.io/">RVM: Ruby Version Manager</a></li>
+</ul>]]></content><author><name>KeJun</name></author><category term="technology" /><category term="ruby" /><category term="rvm" /><summary type="html"><![CDATA[Ruby Version Manager (RVM)，一个命令行工具。顾名思义，RVM可以方便的安装gem和ruby，这对想要安装 Jekyll 的萌新（我），简直不要太酸爽。]]></summary></entry><entry><title type="html">O-MG, Android O!</title><link href="http://localhost:4000/living/2017/03/23/android-o.html" rel="alternate" type="text/html" title="O-MG, Android O!" /><published>2017-03-23T19:58:06+08:00</published><updated>2017-03-23T19:58:06+08:00</updated><id>http://localhost:4000/living/2017/03/23/android-o</id><content type="html" xml:base="http://localhost:4000/living/2017/03/23/android-o.html"><![CDATA[<p>谷歌爸爸发布了 <code class="language-plaintext highlighter-rouge">Android O</code> 首个<a href="https://developer.android.com/preview/download.html">开发者预览版</a>，支持的设备仅有Nexus 5X，Nexus 6P，Nexus Player，Pixel C，Pixel，Pixel XL。beta计划的话<strong>暂时</strong>还没有（2017-03-23）。</p>
+
+<p>而我，坐拥 Nexus 5X ，自然抢先体验。不然用什么亲儿子？！</p>
+
+<h1 id="大的变化">大的变化</h1>
+
+<p>仅说说对于用户的新功能：</p>
+
+<ul>
+  <li>后台限制</li>
+  <li>”渠道通知“</li>
+  <li>自动填充</li>
+  <li>画中画</li>
+  <li>自适应图标</li>
+  <li>Connectivity</li>
+</ul>
+
+<h2 id="后台限制">后台限制</h2>
+
+<p>在 <code class="language-plaintext highlighter-rouge">Nougat</code> 中，安卓的后台限制已经要比之前好很多。而 <code class="language-plaintext highlighter-rouge">O</code> 会在 implicit broadcasts（隐式广播）, background services（后台服务）,location updates（位置更新）对<strong>自己</strong>的应用程序进行额外的自动限制，这将提高用户电池寿命和设备的交互性能。</p>
+
+<p>然而，这并没有什么卵用。不信你下个淘宝试试。</p>
+
+<h2 id="渠道通知">“渠道通知”</h2>
+
+<p>同样，在 <code class="language-plaintext highlighter-rouge">Nougat</code> 中，也对通知进行过改动，主要是权限和通知栏回复消息。新的”渠道通知“可以让<strong>开发人员</strong>对不同类型的通知为<strong>用户</strong>提供精细的权限控制。</p>
+
+<p>然而，这依然没什么卵用。我们国内环境，谁用谁知道。</p>
+
+<h2 id="自动填充">自动填充</h2>
+
+<p>这个确实好，如果像“1Password”、“keeweb”之类的程序能够加入此api，那么身为用户的我们那真是太棒了。</p>
+
+<p>然而，从安全上看，国内环境真是太难了。</p>
+
+<p>不过，我猜未来可能会出现 <code class="language-plaintext highlighter-rouge">360密码管家</code> 、<code class="language-plaintext highlighter-rouge">QQpassword</code> 等等安sha全bi软件（逃。</p>
+
+<p>目前的话，并没有google官方应用支持该功能。但是你可以在 <code class="language-plaintext highlighter-rouge">设置-应用和通知-默认应用-自动填充应用</code> 中找到。</p>
+
+<h2 id="画中画">画中画</h2>
+
+<p>这个我没找到怎么启用或者触发，貌似需要多设备的样子。</p>
+
+<p>听闻可以一边看电视一边叫车。</p>
+
+<p>应用不大，参考 <code class="language-plaintext highlighter-rouge">Nougat</code> 的分屏。</p>
+
+<p>只需要提示 <code class="language-plaintext highlighter-rouge">该应用暂不支持画中画</code> ，就让此功能废了。</p>
+
+<p>如果谷歌爸爸强制的话，当我没说咯。</p>
+
+<blockquote>
+  <p>后来找到惹，是一种特殊权限。以上当废话处理。</p>
+</blockquote>
+
+<h2 id="自适应图标">自适应图标</h2>
+
+<p>听起来很美好，看 <a href="https://android-developers.googleblog.com">Android Developers Blog</a> 的配图也蛮不错，如下：</p>
+
+<p><img style="max-width:150px;pointer-events: none;" src="https://ooo.0o0.ooo/2017/03/23/58d3c6b729692.gif" />
+<img style="max-width:150px;pointer-events: none;" src="https://ooo.0o0.ooo/2017/03/23/58d3c6844bcec.gif" /></p>
+
+<p>依我看来，并没有什么改变，还是得用 <code class="language-plaintext highlighter-rouge">nova</code>，和第三方图标包会好。也许这是pixel独占，nexus是个假儿子QAQ /////</p>
+
+<h2 id="connectivity">Connectivity</h2>
+
+<p>首先是支持高品质的蓝牙音频编解码器。添加了新的Wi-Fi功能 <code class="language-plaintext highlighter-rouge">Wi-Fi Aware</code> （以前是NAN），但是只有在支持该功能的设备上才能使用，具体是什么我猜国内难以应用。谷歌爸爸说了，他们正在与硬件合作伙伴努力中  ///////</p>
+
+<p>说起来，我并没有能力测试。瞎几把搬运吧。</p>
+
+<h1 id="小的变化">小的变化</h1>
+
+<p>这个慢慢发现，目前发现的只有：</p>
+
+<ul>
+  <li>虚拟键</li>
+  <li>快速向导</li>
+  <li>默认图标</li>
+  <li>下拉菜单</li>
+  <li>通知栏动画</li>
+  <li>安装进度</li>
+  <li>设置
+    <ul>
+      <li>安装第三方应用</li>
+      <li>指纹滑动查看通知</li>
+      <li>简单的垃圾清理</li>
+      <li>全新ui</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="虚拟键">虚拟键</h2>
+
+<p>多了一个。用过4.4.4的话应该可以想像到。</p>
+
+<h2 id="快速向导">快速向导</h2>
+
+<p>这个不太清楚是不是O的新功能，在第一次开机选择语言的界面快速点击可以触发 <code class="language-plaintext highlighter-rouge">QR</code> 模式，应该是专为企业所用。</p>
+
+<h2 id="默认图标">默认图标</h2>
+
+<p>默认图标也变惹，但我不是pixel，只看到<code class="language-plaintext highlighter-rouge">设置</code>的图标变了。</p>
+
+<h2 id="下拉菜单">下拉菜单</h2>
+
+<p>在下拉菜单中，我们之前可以通过点击某些图标（如：wifi，移动数据，蓝牙，勿扰模式，电池），从而打开一个新的面板。现在取消了这个，而是多了一个横线。</p>
+
+<p>下拉菜单的图标也做了修改。</p>
+
+<h2 id="通知栏动画">通知栏动画</h2>
+
+<p>好看多惹。难以表达</p>
+
+<h2 id="安装进度">安装进度</h2>
+
+<p>嘛个鸡，终于有这玩意了，现在当你安装新的apk时你可以直接看到程序安装到什么进度了。</p>
+
+<p>还可以取消…</p>
+
+<h2 id="设置">设置</h2>
+
+<p>改得太多惹。下面讲重点。</p>
+
+<h3 id="安装第三方应用">安装第三方应用</h3>
+
+<p>在 <code class="language-plaintext highlighter-rouge">设置-应用和通知-特殊访问权限-安装其他应用</code>中</p>
+
+<p>现在安装非play应用不能像以前一样在安全中启用<code class="language-plaintext highlighter-rouge">允许未知来源</code>就可以使所有应用都有调用软件安装程序的权限。而是针对每个应用控制。 棒 ！   //////</p>
+
+<h3 id="指纹滑动查看通知">指纹滑动查看通知</h3>
+
+<p>在 <code class="language-plaintext highlighter-rouge">设置-应用和通知-通知偏好设置-滑动查看通知</code>中</p>
+
+<p>虽然用过 n ，不知道这个是不是 o 新有的功能，之前只留意pixel可以。</p>
+
+<p>对于手短用户非常友好。</p>
+
+<h3 id="简单的垃圾清理">简单的垃圾清理</h3>
+
+<p>在 <code class="language-plaintext highlighter-rouge">设置-存储-释放空间</code>中</p>
+
+<p>目前可以帮你扫描图片、视频、下载内容、应用。</p>
+
+<p>神它喵，我还有点不信。不过功能炒鸡简单。</p>
+
+<h3 id="全新ui">全新ui</h3>
+
+<p>恩，没错全新ui，n的侧滑也取消惹。</p>
+
+<p>图标有的还没有，毕竟第一个预览版。</p>
+
+<h2 id="遇到的坑">遇到的坑</h2>
+
+<p>总体感觉还行。神奇的是阿里爸爸家的应用也幸存了。（只测试了支付宝）</p>
+
+<ul>
+  <li>不要开酷安免root装，会导致崩溃设置应用和安装程序应用。</li>
+  <li>不要用qq6.7.0发图片，会直接软重启。</li>
+  <li>不要更新 Nougat 7.1.2 的ota，更新后你只会得到<code class="language-plaintext highlighter-rouge">error</code>（为啥会收到旧版的OTA！/////////////。</li>
+</ul>
+
+<h2 id="截图欣赏">截图欣赏</h2>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e28464f11.png" alt="开始界面" /></p>
+
+<blockquote>
+  <p>设置向导</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e2c117baa.png" alt="Screenshot_20170323-223542.png" /></p>
+
+<blockquote>
+  <p>桌面，新增了一张默认壁纸。</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e362ae671.png" alt="Screenshot_20170323-223854.png" /></p>
+
+<blockquote>
+  <p>菜单，除了设置图标，没看出太大变化。</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e3a68b935.png" alt="Screenshot_20170323-224047.png" /></p>
+
+<blockquote>
+  <p>通知栏，好吧我把通知都滑惹。qwq ///////////</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e3d988761.png" alt="Screenshot_20170323-224054.png" /></p>
+
+<blockquote>
+  <p>下拉菜单，可以看到多了横线，图标有简单的变化。</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e41f192fc.png" alt="Screenshot_20170323-224106.png" /></p>
+
+<blockquote>
+  <p>全新ui的设置</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e432b37d7.png" alt="Screenshot_20170323-224221.png" />
+<img src="https://ooo.0o0.ooo/2017/03/23/58d3e4474430d.png" alt="Screenshot_20170323-224225.png" /></p>
+
+<blockquote>
+  <p>安装程序和进度条。</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e48b5acf1.png" alt="Screenshot_20170323-224431.png" /></p>
+
+<blockquote>
+  <p>点击释放空间即可打开新世界</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e48b5d9b6.png" alt="Screenshot_20170323-224554.png" /></p>
+
+<blockquote>
+  <p>android 版本：O</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e48b5f783.png" alt="Screenshot_20170323-224437.png" /></p>
+
+<blockquote>
+  <p>电池界面，好看了唉。</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e48b970ef.png" alt="Screenshot_20170323-224601.png" /></p>
+
+<blockquote>
+  <p>logo，彩蛋还是N的</p>
+</blockquote>
+
+<p><img src="https://ooo.0o0.ooo/2017/03/23/58d3e48b70d27.png" alt="Screenshot_20170323-225253.png" /></p>
+
+<blockquote>
+  <p>收到了旧版本的OTA?</p>
+</blockquote>
+
+<h1 id="参考链接">参考链接</h1>
+
+<p>https://android-developers.googleblog.com/2017/03/first-preview-of-android-o.html</p>
+
+<p>https://developer.android.com/preview/index.html</p>
+
+<p>https://www.google.com/search?newwindow=1&amp;q=android+o&amp;oq=android+o</p>
+
+<p>http://www.newhua.com/2017/0323/312540.shtml</p>]]></content><author><name>KeJun</name></author><category term="Living" /><category term="android" /><summary type="html"><![CDATA[谷歌爸爸发布了 Android O 首个开发者预览版，支持的设备仅有Nexus 5X，Nexus 6P，Nexus Player，Pixel C，Pixel，Pixel XL。beta计划的话暂时还没有（2017-03-23）。]]></summary></entry><entry><title type="html">使用 abd + fastboot 救我的 Nexus5x</title><link href="http://localhost:4000/living/2016/10/27/use-adb-and-fastboot-to-save-my-nexus5x.html" rel="alternate" type="text/html" title="使用 abd + fastboot 救我的 Nexus5x" /><published>2016-10-27T16:23:06+08:00</published><updated>2016-10-27T16:23:06+08:00</updated><id>http://localhost:4000/living/2016/10/27/use-adb-and-fastboot-to-save-my-nexus5x</id><content type="html" xml:base="http://localhost:4000/living/2016/10/27/use-adb-and-fastboot-to-save-my-nexus5x.html"><![CDATA[<p>安卓就是要折腾。</p>
+
+<h2 id="前言">前言</h2>
+
+<p>因为折腾，在 xda 上看到了一个可以拥有 Pixel 的虚拟按键补丁，眼残没看评论，于是脑残刷了。
+然后就炸了，于是我打开 <a href="https://twrp.me/">twrp</a> 双清一下打算刷 <a href="http://www.cyanogenmod.org/">CyanogenMod</a> ，但是，没刷成功，开机死活卡在 google 界面。然后尝试刷以前 <a href="http://forum.xda-developers.com/nexus-5x/development/rom-chroma-11-08-2015-lockscreen-navbar-t3244199">chroma rom</a> （一个不错的 rom 目前只有6.0.1），但是还是开不了机。
+so，线刷。</p>
+
+<h2 id="一切的前提">一切的前提</h2>
+
+<p>要有 adb 和 fastboot 以及解锁。</p>
+
+<h2 id="下载固件">下载固件</h2>
+
+<p><a href="https://developers.google.com/android/nexus/images">官方线刷固件包</a></p>
+
+<p>下好后解压再解压，得到:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>system.img
+vendor.img
+boot.img
+recovery.img
+cache.img
+</code></pre></div></div>
+
+<h2 id="刷机">刷机</h2>
+
+<p>长按电源+音量减进入 bootloader，用数据线连接电脑，输入 fastboot device 查看手机是否已经和电脑连接好。</p>
+
+<p>如果 ok ，那么继续。</p>
+
+<ol>
+  <li>
+    <p>刷入系统镜像</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot flash system system.img</code></p>
+  </li>
+  <li>
+    <p>刷入驱动</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot flash vendor vendor.img</code></p>
+  </li>
+  <li>
+    <p>刷入内核</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot flash boot boot.img</code></p>
+  </li>
+  <li>
+    <p>刷入Recovery</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot flash recovery recovery.img</code></p>
+  </li>
+  <li>
+    <p>清空cache分区</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot erase cache</code></p>
+  </li>
+  <li>
+    <p>清除缓存</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot flash cache cache.img</code></p>
+  </li>
+  <li>
+    <p>格式化全部数据</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot -w</code></p>
+  </li>
+  <li>
+    <p>重启</p>
+
+    <p><code class="language-plaintext highlighter-rouge">fastboot reboot</code></p>
+  </li>
+</ol>
+
+<h2 id="完成">完成</h2>
+
+<blockquote>
+  <p>至此就完成了，但是折腾需谨慎。</p>
+</blockquote>]]></content><author><name>KeJun</name></author><category term="Living" /><category term="android" /><category term="adb" /><category term="fastboot" /><summary type="html"><![CDATA[安卓就是要折腾。]]></summary></entry><entry><title type="html">Ubuntu安装Apache，MySQL，PHP以及phpMyAdmin</title><link href="http://localhost:4000/technology/2016/04/14/ubuntu-installs-apache-masql-php-and-phpmyadmin.html" rel="alternate" type="text/html" title="Ubuntu安装Apache，MySQL，PHP以及phpMyAdmin" /><published>2016-04-14T10:24:49+08:00</published><updated>2016-04-14T10:24:49+08:00</updated><id>http://localhost:4000/technology/2016/04/14/ubuntu-installs-apache-masql-php-and-phpmyadmin</id><content type="html" xml:base="http://localhost:4000/technology/2016/04/14/ubuntu-installs-apache-masql-php-and-phpmyadmin.html"><![CDATA[<p>还原了服务器，于是重装，顺路记录下来，路过的朋友们可以借鉴，LAMP Go!</p>
+
+<h2 id="apache">Apache</h2>
+
+<h3 id="安装">安装</h3>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-get update
+apt-get <span class="nb">install </span>apache2
+</code></pre></div></div>
+
+<p>装好后，配置文件应该位于 <code class="language-plaintext highlighter-rouge">/etc/apache2</code> 中。默认的网站目录为 <code class="language-plaintext highlighter-rouge">/var/www/</code> 。</p>
+
+<p>启动 Apache 的方法：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>service apache2 start
+</code></pre></div></div>
+
+<p>重启 Apache 的方法：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>service apache2 restart
+</code></pre></div></div>
+
+<p>停止 Apache 的方法：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>service apache2 stop
+</code></pre></div></div>
+
+<h3 id="其他">其他</h3>
+
+<p>Apache 的错误日志文件默认为 <code class="language-plaintext highlighter-rouge">/var/log/apache2/error.log</code> 。</p>
+
+<p>如果你没有指定 <code class="language-plaintext highlighter-rouge">SeverName</code> ，可能会出现如下警告：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apache2: Could not determine the server''s fully qualified domain name, using 127.0.0.1 for ServerName
+</code></pre></div></div>
+
+<p>解决方法为：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim /etc/apache2/apache2.conf
+</code></pre></div></div>
+
+<p>添加如下：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ServerName localhost
+</code></pre></div></div>
+
+<h2 id="mysql">MySQL</h2>
+
+<h3 id="安装-1">安装</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-get install mysql-server
+</code></pre></div></div>
+
+<p>安装过程需要设定root账户和密码。</p>
+
+<h2 id="php">PHP</h2>
+
+<h3 id="安装-2">安装</h3>
+
+<p>安装 PHP 使 PHP 代码可以在 Apache 服务器下运行，并连接我们的 MySQL 数据库：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-get install php libapache2-mod-php php-mcrypt php-mysql
+</code></pre></div></div>
+
+<p>至此 PHP 已经部署完成。</p>
+
+<h3 id="安装-php-模块">安装 PHP 模块</h3>
+
+<p>你可以使用 <code class="language-plaintext highlighter-rouge">apt-cache search php- | less</code> 命令查看所有可用模块，按上下箭头滚动，按 <code class="language-plaintext highlighter-rouge">q</code> 退出。</p>
+
+<h3 id="其他-1">其他</h3>
+
+<p>为了让 Apache 优先索引 PHP 文件：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim /etc/apache2/mods-enabled/dir.conf
+</code></pre></div></div>
+
+<p>然后将 PHP 索引文件移动到第一个位置，如下：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;IfModule mod_dir.c&gt;
+
+DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
+
+&lt;/IfModule&gt;
+</code></pre></div></div>
+
+<p>一些模块：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-get install php-mysql php-curl php-gd php-intl php-pear php-imagick php-imap php-mcrypt php-memcache php-ming php-ps php-pspell php-recode php-snmp php-sqlite php-tidy php-xmlrpc php-xsl
+</code></pre></div></div>
+
+<h2 id="phpmyadmin">phpMyAdmin</h2>
+
+<h3 id="安装-3">安装</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt-get install phpmyadmin
+</code></pre></div></div>
+
+<p>安装过程中会选择服务器以及配置。</p>
+
+<h3 id="使用-phpmyadmin">使用 phpMyAdmin</h3>
+
+<p>安装后，还不能立即使用  <code class="language-plaintext highlighter-rouge">phpMyAdmin</code> ，因为它不在网站目录下。为了正常使用，只需把 phpMyAdmin 的配置文件包含到 Apache 的配置中。编辑 <code class="language-plaintext highlighter-rouge">apache2.conf</code>：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim /etc/apache2/apache2.conf
+</code></pre></div></div>
+
+<p>在文件中添加如下行：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Include /etc/phpmyadmin/apache.conf
+</code></pre></div></div>
+
+<p>重启服务器：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>service apache2 restart
+</code></pre></div></div>
+
+<p>至此，你就可以通过<code class="language-plaintext highlighter-rouge">yourip/phpmyadmin</code>来访问 phpMyAdmin 了。</p>]]></content><author><name>KeJun</name></author><category term="technology" /><category term="ubuntu" /><category term="apache" /><category term="mysql" /><category term="php" /><category term="phpmyadmin" /><summary type="html"><![CDATA[还原了服务器，于是重装，顺路记录下来，路过的朋友们可以借鉴，LAMP Go!]]></summary></entry></feed>
